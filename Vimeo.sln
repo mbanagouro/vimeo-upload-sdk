@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VimeoAPI", "VimeoAPI\VimeoAPI.csproj", "{9E15E9B8-26E3-440B-8B69-503706A73260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VimeoAPI.Tests", "VimeoAPI.Tests\VimeoAPI.Tests.csproj", "{55CA0523-3C81-4218-AED5-78E65228B0DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E15E9B8-26E3-440B-8B69-503706A73260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E15E9B8-26E3-440B-8B69-503706A73260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E15E9B8-26E3-440B-8B69-503706A73260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E15E9B8-26E3-440B-8B69-503706A73260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55CA0523-3C81-4218-AED5-78E65228B0DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CA0523-3C81-4218-AED5-78E65228B0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CA0523-3C81-4218-AED5-78E65228B0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CA0523-3C81-4218-AED5-78E65228B0DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
